@@ -50,7 +50,7 @@ ${\color{#f54f4c}{c+h}}
 {\color{#f54f4c}{otherwise.}}$
 
 
-${\color{#ffbc36}{Text}}
+${\color{#ffbc36}{“text}}
 \hspace{10px}
 {\color{#ffbc36}{Text}}
 \hspace{10px}
@@ -58,7 +58,7 @@ ${\color{#ffbc36}{Text}}
 \hspace{10px}
 {\color{#ffbc36}{Text}}
 \hspace{10px}
-{\color{#ffbc36}{Text}}$
+{\color{#ffbc36}{Text”}}$
 
 ${\color{#f54f4c}{⋆.࿔}}
 \hspace{10px}
