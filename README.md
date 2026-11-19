@@ -175,7 +175,7 @@ Doing so can cause those people to confront me, which creates unnecessary proble
 I do not tolerate harassment or bullying in any way. I hope this can be respected and understood. <br/>
 <br/>
 
-### DNI if: 
+### DNI: 
 
 Homophobes, Transphobes and Xenophobes.<br/>
 <br/>
