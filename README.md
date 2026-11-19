@@ -50,25 +50,33 @@ ${\color{#f54f4c}{c+h}}
 {\color{#f54f4c}{otherwise.}}$
 
 
-${\color{#ffbc36}{“text}}
+${\color{#ffbc36}{I}}
 \hspace{10px}
-{\color{#ffbc36}{Text}}
+{\color{#ffbc36}{love}}
 \hspace{10px}
-{\color{#ffbc36}{Text}}
+{\color{#ffbc36}{my}}
 \hspace{10px}
-{\color{#ffbc36}{Text}}
+{\color{#ffbc36}{husband}}
 \hspace{10px}
-{\color{#ffbc36}{Text”}}$
+{\color{#ffbc36}{@GunsAndRosesBurn}}$
 
 ${\color{#f54f4c}{⋆.࿔}}
 \hspace{10px}
-{\color{#f54f4c}{More}}
+{\color{#f54f4c}{“Have}}
 \hspace{10px}
-{\color{#f54f4c}{Text}}
+{\color{#f54f4c}{I}}
 \hspace{10px}
-{\color{#f54f4c}{Text}}
+{\color{#f54f4c}{run}}
 \hspace{10px}
-{\color{#f54f4c}{text}}
+{\color{#f54f4c}{too}}
+\hspace{10px}
+{\color{#f54f4c}{far}}
+\hspace{10px}
+{\color{#f54f4c}{to}}
+\hspace{10px}
+{\color{#f54f4c}{get}}
+\hspace{10px}
+{\color{#f54f4c}{home?”}}
 \hspace{10px}
 {\color{#f54f4c}{٠࣪⭑}}$
 
